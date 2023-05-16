@@ -87,7 +87,7 @@ $('document').ready(function() {
         'use strict';
         
     	$('.countdown').final_countdown({
-            'start': 1685851200, // Start time here; Epoch time
+            'start': 1680580800, // Start time here; Epoch time
             'end': 1685937600, // End time here; Epoch time
             'now': new Date().getTime() / 1000 // Current time
         });
